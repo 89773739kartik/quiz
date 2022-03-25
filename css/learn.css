@@ -1,0 +1,34 @@
+#translate{
+    color: lawngreen;
+    border-radius: 30%;
+
+}
+#h1{
+    color: lightblue;
+    background-position: 78pt;
+    background-color: #1b3b5e;
+    align-content: center;
+    margin-left:  20%;
+    text-align: center;
+}
+#t_input{
+    font-size: medium;
+    font: optional;
+    font-stretch: semi-condensed;
+    margin-bottom: 30px;
+    margin: 67px;
+    color: lightcoral;
+    text-decoration: lightgreen;
+font-style: oblique;    
+}
+
+#r_translate{
+width: 78px;
+height: 90pc;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: medium;
+margin-top: 78pc;
+color: lightcoral;
+text-decoration: lightgreen;
+
+}
